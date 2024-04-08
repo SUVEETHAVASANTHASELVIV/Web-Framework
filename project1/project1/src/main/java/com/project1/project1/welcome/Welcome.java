@@ -8,6 +8,6 @@ public class Welcome {
     @GetMapping("/welcome")
     public String shan()
     {
-        return "Hi...I am Shiwani";
+        return "Hi...I am Suveetha";
     }
 }
